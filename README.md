@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XiaoLing12138
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on class XD
+- 👀 I’m major in CS
+- 🌱 I’m currently learning motion tracking
 - 📫 How to reach me: e-mail me by 823277630@qq.com
 
 <!---
