@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XiaoLing12138
-- 👀 I’m major in CS
-- 🌱 I’m currently learning motion tracking
-- 📫 How to reach me: e-mail me by 823277630@qq.com
+- 👀 I’m pursuing a master's degree in Electronic Science and Technology at Southern University of Science and Technology
+- 🌱 I’m currently studying medical image analysis based on cataract and glaucoma
+- 📫 How to reach me: e-mail me by 12332436@mail.sustech.edu.cn
 
 <!---
 XiaoLing12138/XiaoLing12138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
